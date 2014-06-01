@@ -4,7 +4,7 @@ Clojure doevery X milliseconds. A small wrapper of overtone/at-at for near insta
 
 ## Usage
 
-Add [org.clojars.frozenlock/doevery "0.1.0"] to your `project.clj` dependencies.
+Add `[org.clojars.frozenlock/doevery "0.1.0"]` to your `project.clj` dependencies.
 
 Require `doevery.core` into your namespace.
 
