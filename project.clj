@@ -1,4 +1,4 @@
-(defproject org.clojars.frozenlock/doevery "0.1.0"
+(defproject org.clojars.frozenlock/doevery "0.1.1"
   :description "Clojure doevery X milliseconds. A small wrapper of overtone/at-at for near instant usage."
   :url "http://example.com/FIXME"
   :license {:name "Eclipse Public License"

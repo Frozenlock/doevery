@@ -3,8 +3,8 @@
 
 (defonce pools (atom {}))
 
-(defn current-namespace []
-  (str *ns*))
+(defmacro current-namespace []
+  `(str ~*ns*))
 
 (defn create-pool
   "Create a pool for the current namespace" []
